@@ -10,4 +10,4 @@ This folder is a self-contained GitHub Pages website. No build step is required.
 4. Under **Build and deployment**, select **GitHub Actions**.
 5. The included workflow will publish the site automatically after each push to `main`.
 
-The `files/` directory stores the CV, research statement, and public working-paper PDFs. Links are relative, so the bundle works without Google Drive and remains portable between GitHub Pages repositories.
+The `files/` directory stores the CV and public working-paper PDFs. The `figures/` directory stores the research visuals used on the page. Links are relative, so the bundle works without Google Drive and remains portable between GitHub Pages repositories.
